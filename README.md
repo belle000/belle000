@@ -1,4 +1,4 @@
-Hey There! Welcome to my Github ! * 🪼 
+Hey There! Welcome to my Github ! 🪼 
 ===========================================
 
 I’m Ignatia Christabelle, a Computer Science undergraduate in BINUS University with a passion for both design and technology. I love creating interactive and visually stunning websites that blend form with function.
