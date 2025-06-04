@@ -3,18 +3,15 @@ Hey There! Welcome to my Github ! 🪼 
 
 I’m Ignatia Christabelle, a Computer Science undergraduate in BINUS University with a passion for both design and technology. I love creating interactive and visually stunning websites that blend form with function.
 
-* ⭐️ About Me
+⭐️ About Me
 I'm constantly exploring the intersection of design and technology, where creativity meets code. Although I am deeply immersed in coding and software development, I approach problem-solving with an artistic mindset. I believe that beautiful, user-centered designs and seamless functionality are key to crafting exceptional user experiences.
 
 Here, you'll find projects that showcase my journey, combining my skills in:
 
-- Web Design & Development 🌐
-
-- Front-End Technologies (HTML, CSS, JavaScript, React, etc.)
-
-- UI/UX Design 🎨
-
-- Creative Coding 💻
+Web Design & Development 🌐
+Front-End Technologies (HTML, CSS, JavaScript, React, etc.)
+UI/UX Design 🎨
+Creative Coding 💻
 
 
 * 📌  I'm based in Jakarta, Indonesia
